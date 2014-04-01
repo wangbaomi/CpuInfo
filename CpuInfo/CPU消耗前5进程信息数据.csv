@@ -1,0 +1,89 @@
+Date,Time,Top,进程id,进程名,CPU占有率(%),占用内存(KB),句柄数,文件路径
+2014-03-31,10:14:04,1,2680,CpuInfo.exe,0,2856,38,\Device\HarddiskVolume4\Users\Administrator\Documents\Visual Studio 2013\Projects\CpuInfo\Release\CpuInfo.exe
+2014-03-31,10:14:04,2,3352,conhost.exe,0,6028,55,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:14:04,3,3764,cmd.exe,0,2860,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-03-31,10:14:04,4,3648,mspdbsrv.exe,0,3600,47,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\mspdbsrv.exe
+2014-03-31,10:14:04,5,3780,conhost.exe,0,2616,32,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:14:09,1,0,SystemIdleProcess,98,2856,38,SystemIdleProcess
+2014-03-31,10:14:09,2,3352,conhost.exe,0,23820,169,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:14:09,3,3764,cmd.exe,0,2860,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-03-31,10:14:09,4,3648,mspdbsrv.exe,0,3600,47,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\mspdbsrv.exe
+2014-03-31,10:14:09,5,3780,conhost.exe,0,2616,32,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:14:14,1,0,SystemIdleProcess,99,2856,38,SystemIdleProcess
+2014-03-31,10:14:14,2,3352,conhost.exe,0,23820,169,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:14:14,3,3764,cmd.exe,0,2860,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-03-31,10:14:14,4,3648,mspdbsrv.exe,0,3600,47,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\mspdbsrv.exe
+2014-03-31,10:14:14,5,3780,conhost.exe,0,2616,32,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:14:19,1,0,SystemIdleProcess,99,2856,38,SystemIdleProcess
+2014-03-31,10:14:19,2,3352,conhost.exe,0,23820,169,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:14:19,3,3764,cmd.exe,0,2860,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-03-31,10:14:19,4,3648,mspdbsrv.exe,0,3600,47,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\mspdbsrv.exe
+2014-03-31,10:14:19,5,3780,conhost.exe,0,2616,32,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+Date,Time,Top,进程id,进程名,CPU占有率(%),占用内存(KB),句柄数,文件路径
+2014-03-31,10:19:36,1,3736,CpuInfo.exe,0,2916,38,\Device\HarddiskVolume4\Users\Administrator\Documents\Visual Studio 2013\Projects\CpuInfo\Release\CpuInfo.exe
+2014-03-31,10:19:36,2,3012,conhost.exe,0,8112,95,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:19:36,3,3384,cmd.exe,0,2852,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-03-31,10:19:36,4,3168,chrome.exe,0,65312,176,\Device\HarddiskVolume4\Program Files (x86)\Google\Chrome\Application\chrome.exe
+2014-03-31,10:19:36,5,156,chrome.exe,0,62008,168,\Device\HarddiskVolume4\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Date,Time,Top,进程id,进程名,CPU占有率(%),占用内存(KB),句柄数,文件路径
+2014-03-31,10:20:38,1,3808,CpuInfo.exe,0,2908,38,\Device\HarddiskVolume4\Users\Administrator\Documents\Visual Studio 2013\Projects\CpuInfo\Release\CpuInfo.exe
+2014-03-31,10:20:38,2,1872,conhost.exe,0,6204,53,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:20:38,3,3784,cmd.exe,0,2848,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-03-31,10:20:38,4,3168,chrome.exe,0,65384,177,\Device\HarddiskVolume4\Program Files (x86)\Google\Chrome\Application\chrome.exe
+2014-03-31,10:20:38,5,156,chrome.exe,0,62104,168,\Device\HarddiskVolume4\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Date,Time,Top,进程id,进程名,CPU占有率(%),占用内存(KB),句柄数,文件路径
+2014-03-31,10:20:55,1,3808,CpuInfo.exe,0,2972,38,\Device\HarddiskVolume4\Users\Administrator\Documents\Visual Studio 2013\Projects\CpuInfo\Debug\CpuInfo.exe
+2014-03-31,10:20:55,2,680,conhost.exe,0,24004,168,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:20:55,3,1452,cmd.exe,0,2856,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-03-31,10:20:55,4,3800,vcpkgsrv.exe,0,47224,125,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcpackages\vcpkgsrv.exe
+2014-03-31,10:20:55,5,3168,chrome.exe,0,65444,177,\Device\HarddiskVolume4\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Date,Time,Top,进程id,进程名,CPU占有率(%),占用内存(KB),句柄数,文件路径
+2014-03-31,10:25:39,1,4080,CpuInfo.exe,0,3068,38,\Device\HarddiskVolume4\Users\Administrator\Documents\Visual Studio 2013\Projects\CpuInfo\Debug\CpuInfo.exe
+2014-03-31,10:25:39,2,3916,conhost.exe,0,40896,169,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:25:39,3,3800,cmd.exe,0,2856,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-03-31,10:25:39,4,3124,vcpkgsrv.exe,0,51052,140,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcpackages\vcpkgsrv.exe
+2014-03-31,10:25:39,5,3168,chrome.exe,0,65608,169,\Device\HarddiskVolume4\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Date,Time,Top,进程id,进程名,CPU占有率(%),占用内存(KB),句柄数,文件路径
+2014-03-31,10:26:52,1,2840,CpuInfo.exe,0,2976,38,\Device\HarddiskVolume4\Users\Administrator\Documents\Visual Studio 2013\Projects\CpuInfo\Debug\CpuInfo.exe
+2014-03-31,10:26:52,2,3844,conhost.exe,0,6280,53,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:26:52,3,356,cmd.exe,0,2856,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-03-31,10:26:52,4,3124,vcpkgsrv.exe,0,51100,142,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcpackages\vcpkgsrv.exe
+2014-03-31,10:26:52,5,3168,chrome.exe,0,65700,169,\Device\HarddiskVolume4\Program Files (x86)\Google\Chrome\Application\chrome.exe
+2014-03-31,10:26:57,1,0,SystemIdleProcess,95,2976,38,SystemIdleProcess
+2014-03-31,10:26:57,2,3844,conhost.exe,0,25432,184,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:26:57,3,356,cmd.exe,0,2856,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-03-31,10:26:57,4,3124,vcpkgsrv.exe,0,51100,142,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcpackages\vcpkgsrv.exe
+2014-03-31,10:26:57,5,3168,chrome.exe,0,65604,169,\Device\HarddiskVolume4\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Date,Time,Top,进程id,进程名,CPU占有率(%),占用内存(KB),句柄数,文件路径
+2014-03-31,10:27:35,1,3636,CpuInfo.exe,0,2976,38,\Device\HarddiskVolume4\Users\Administrator\Documents\Visual Studio 2013\Projects\CpuInfo\Debug\CpuInfo.exe
+2014-03-31,10:27:35,2,3300,conhost.exe,0,6156,53,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:27:35,3,2284,cmd.exe,0,2856,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-03-31,10:27:35,4,3124,vcpkgsrv.exe,0,51112,142,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcpackages\vcpkgsrv.exe
+2014-03-31,10:27:35,5,3168,chrome.exe,0,65708,169,\Device\HarddiskVolume4\Program Files (x86)\Google\Chrome\Application\chrome.exe
+2014-03-31,10:27:40,1,0,SystemIdleProcess,94,2976,38,SystemIdleProcess
+2014-03-31,10:27:40,2,3300,conhost.exe,1,25492,184,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:27:40,3,2064,devenv.exe,1,240040,1510,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe
+2014-03-31,10:27:40,4,3124,vcpkgsrv.exe,0,51112,142,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcpackages\vcpkgsrv.exe
+2014-03-31,10:27:40,5,3168,chrome.exe,0,65568,169,\Device\HarddiskVolume4\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Date,Time,Top,进程id,进程名,CPU占有率(%),占用内存(KB),句柄数,文件路径
+2014-03-31,10:31:10,1,1968,CpuInfo.exe,0,2980,38,\Device\HarddiskVolume4\Users\Administrator\Documents\Visual Studio 2013\Projects\CpuInfo\Debug\CpuInfo.exe
+2014-03-31,10:31:10,2,3688,conhost.exe,0,6156,53,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-03-31,10:31:10,3,2988,cmd.exe,0,2856,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-03-31,10:31:10,4,3124,vcpkgsrv.exe,0,51412,130,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcpackages\vcpkgsrv.exe
+2014-03-31,10:31:10,5,3168,chrome.exe,0,65792,169,\Device\HarddiskVolume4\Program Files (x86)\Google\Chrome\Application\chrome.exe
+2014-03-31,10:31:15,1,0,SystemIdleProcess,94,2980,38,SystemIdleProcess
+2014-03-31,10:31:15,2,2064,devenv.exe,1,241532,1499,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe
+2014-03-31,10:31:15,3,2988,cmd.exe,0,2856,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-03-31,10:31:15,4,3124,vcpkgsrv.exe,0,51412,130,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcpackages\vcpkgsrv.exe
+2014-03-31,10:31:15,5,3168,chrome.exe,0,65696,169,\Device\HarddiskVolume4\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Date,Time,Top,进程id,进程名,CPU占有率(%),占用内存(KB),句柄数,文件路径
+2014-04-01,10:30:39,1,152,CpuInfo.exe,0,2976,38,\Device\HarddiskVolume4\Users\Administrator\Documents\Visual Studio 2013\Projects\CpuInfo\Debug\CpuInfo.exe
+2014-04-01,10:30:39,2,3808,conhost.exe,0,23892,168,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-04-01,10:30:39,3,3388,cmd.exe,0,2856,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-04-01,10:30:39,4,3572,mspdbsrv.exe,0,3812,47,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\mspdbsrv.exe
+2014-04-01,10:30:39,5,4056,conhost.exe,0,2784,33,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-04-01,10:30:45,1,0,SystemIdleProcess,98,2976,38,SystemIdleProcess
+2014-04-01,10:30:45,2,3808,conhost.exe,0,23892,168,\Device\HarddiskVolume4\Windows\System32\conhost.exe
+2014-04-01,10:30:45,3,3388,cmd.exe,0,2856,21,\Device\HarddiskVolume4\Windows\SysWOW64\cmd.exe
+2014-04-01,10:30:45,4,3572,mspdbsrv.exe,0,3812,47,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\mspdbsrv.exe
+2014-04-01,10:30:45,5,4056,conhost.exe,0,2784,33,\Device\HarddiskVolume4\Windows\System32\conhost.exe
